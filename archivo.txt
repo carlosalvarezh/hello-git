@@ -1,0 +1,1 @@
+Archivo que no quiero que se suba con el commit. Se ignore.
